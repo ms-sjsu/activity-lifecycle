@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#00506B</color>
+    <color name="black">#000000</color>
+    <color name="button_background">#FFFB0E</color>
+    <color name="closebtn_background">#050505</color>
+    <color name="closedlg_background">#EDE2E0</color>
+    <color name="green">#00FF00</color>
+    <color name="orange">#FF8A00</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="font_large">28dp</dimen>
+    <dimen name="font_medium">20dp</dimen>
+    <dimen name="font_small">18dp</dimen>
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_b_text">Activity B occupies the complete window real-estate. The Android OS forces Activity A to be paused. However, the background thread keep incrementing the counter...</string>
+    <string name="app_name">Activity Lifecycle</string>
+    <string name="btn_closeApp_label">Close App</string>
+    <string name="btn_finish_b_label">Finish B</string>
+    <string name="btn_finish_dialog_label">Close</string>
+    <string name="btn_start_b_label">Start Activity B</string>
+    <string name="btn_start_dialog_label">Dialog</string>
+    <string name="dialog_text">Simple Dialog</string>
+    <string name="restart_counter">Restart Counter: </string>
+</resources>
